@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: ADO_A
+  m_EditorClassIdentifier: 
+  dateFR: 6 Mars 2005
+  dateEN: March 2005
+  linesFR:
+  - L'ambiance est pesante dans la voiture.
+  - "Les pyr\xE9n\xE9es d\xE9filent derri\xE8re la fen\xEAtre mais tu ne les regarde
+    pas."
+  - "Tu caches l'\xE9cran de la game boy avec ta main gauche pour essayer de voir
+    ton jeu malgr\xE9 le soleil."
+  - "Si papa et maman ne parlent pas, ce n'est pas seulement \xE0 cause de l'enterrement."
+  - tout le monde sait (sauf eux) qu'ils ne s'aiment plus vraiment.
+  - "mais ils se mentent pour ne pas que leur s\xE9paration te rende triste."
+  - comme si vivre dans cet ambiance te rendait heureux.
+  linesEN:
+  - the car ride was not very comfortable.
+  - the pyrenees are here, just behind the window but you do not look at them.
+  - 'You hide your game-boy''s screen with your left hand, trying to see your game
+    despite the sun.  '
+  - If mom and dad aren't talking, it's not just because of the funeral.
+  - 'everyone knows (except them) that they don''t really love each other anymore.  '
+  - but they lie to each other, to protect you from their divorce.
+  - as if living in this atmosphere made you happy.
+  endChapterQuestionFR: Un suicune apparait sur ta game Boy.
+  endChapterQuestionEN: A suicune appears on your game boy.
+  negativeOptionFR: "Tu vois le nom de la ville o\xF9 habitait Mamie laitue par la
+    fen\xEAtre de la voiture."
+  negativeOptionEN: You see the name of the town where Grandma Lettuce lived through
+    the car window.
+  positiveOptionFR: "Alors qu'il ne restait plus qu'une pok\xE9ball, tu arrives \xE0
+    attraper Suicune. "
+  positiveOptionEN: When there was only one pokeball left, you manage to catch Suicune.
+  negativeConclusionFR: " Tu \xE9teins ta console sans attraper Suicune, tu n'as
+    plus trop la t\xEAte \xE0 \xE7a."
+  negativeConclusionEN: You turn off your console without catching Suicune, you don't
+    really care about that anymore.
+  positiveConclusionFR: "Un petit rayon de soleil dans cette journ\xE9e bien sombre."
+  positiveConclusionEN: A little ray of sunshine on this dark day.
+  emotion: 0
+  characterImage: {fileID: 0}
+  diceValue: 4
+  histoireAChoix: 1
+  ecrireSonNom: 0
+  needCheckCondition: 0
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 0
+  celibataire: 0
+  aUnImpact: 1
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 1
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

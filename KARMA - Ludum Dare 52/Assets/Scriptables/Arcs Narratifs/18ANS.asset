@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8de9a79fd2c0f148a95547300294e7c, type: 3}
+  m_Name: 18ANS
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: a711a5ac9108e5a43869e35bb8736a6e, type: 2}
+  - {fileID: 11400000, guid: bf05e0765e67aa5499d60b61bee12bfe, type: 2}
+  - {fileID: 11400000, guid: 48b523432c11b3644aceb1197e771168, type: 2}
+  - {fileID: 11400000, guid: a8c957c7159f8624fb41b181a66e4a16, type: 2}
+  - {fileID: 11400000, guid: d3448e132c4b12d4f971db3127b2bc93, type: 2}
+  - {fileID: 11400000, guid: 76c5e25a668c8e74fae85f60438f944a, type: 2}
+  - {fileID: 11400000, guid: af08794376431834b94e861e9db9f296, type: 2}
+  - {fileID: 11400000, guid: 98dca1c27c3fedb478d2c087f061fd9d, type: 2}
+  - {fileID: 11400000, guid: e395ae60d3e354846997e3a6cc896ef4, type: 2}
+  - {fileID: 11400000, guid: e1fecf40f660c434d9a18fa69302039c, type: 2}
+  titre: 18 Ans

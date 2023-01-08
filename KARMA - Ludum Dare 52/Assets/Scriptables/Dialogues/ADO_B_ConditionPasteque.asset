@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: ADO_B_ConditionPasteque
+  m_EditorClassIdentifier: 
+  dateFR: 7 Mars 2005
+  dateEN: March 7, 2005
+  linesFR:
+  - Les adultes sont dans la maison, en train de faire des cartons.
+  - "Tu es devant la grille du \"petit oasis\" de Mamie. Sa cl\xE9 est dans ta main."
+  - "Tu dois forcer pour ouvrir la grille. Des ronces ont pouss\xE9es et ont entourr\xE9es
+    le bas du portail."
+  - "Tu marches un peu dans l'oasis, \xE0 la recherche de votre past\xE8que."
+  - Tu ne la trouves pas.
+  - Triste, tu rentres rejoindre les parents.
+  - "Mais \xE0 c\xF4t\xE9 de la porte arri\xE8re de la maison, tu vois un petit carr\xE9
+    de terre avec une past\xE8que en son centre."
+  - Tu souris.
+  linesEN:
+  - The adults are in the house, making boxes.
+  - You are in front of the gate of Grandma's "little oasis". her key is in your
+    hand.
+  - You have to force to open the gate. brambles grew and surrounded the bottom of
+    the gate.
+  - You walk around the oasis a bit, looking for your watermelon.
+  - You don't find it.
+  - Sad, you go back to the house to join your mom.
+  - 'But next to the back door of the house, you see a small patch of dirt with a
+    watermelon in the center.  '
+  - You smile.
+  endChapterQuestionFR: 
+  endChapterQuestionEN: 
+  negativeOptionFR: 
+  negativeOptionEN: 
+  positiveOptionFR: 
+  positiveOptionEN: 
+  negativeConclusionFR: 
+  negativeConclusionEN: 
+  positiveConclusionFR: 
+  positiveConclusionEN: 
+  emotion: 0
+  characterImage: {fileID: 0}
+  diceValue: 0
+  histoireAChoix: 0
+  ecrireSonNom: 0
+  needCheckCondition: 1
+  passionPasteque: 1
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 0
+  celibataire: 0
+  aUnImpact: 0
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

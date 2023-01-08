@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8de9a79fd2c0f148a95547300294e7c, type: 3}
+  m_Name: 26ANS
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: 172d6edf5cae9c64980b1e7d9dd3667c, type: 2}
+  - {fileID: 11400000, guid: 7b3a9f922e0cee64190a23c55c7f7403, type: 2}
+  - {fileID: 11400000, guid: e93a7c4ef01a39348b681f5842e0db72, type: 2}
+  - {fileID: 11400000, guid: b93773a7c3902f846b498d4c4ccf13c7, type: 2}
+  titre: 26 ans

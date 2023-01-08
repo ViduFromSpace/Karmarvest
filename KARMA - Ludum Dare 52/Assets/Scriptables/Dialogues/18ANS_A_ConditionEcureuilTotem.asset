@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: 18ANS_A_ConditionEcureuilTotem
+  m_EditorClassIdentifier: 
+  dateFR: 12 Juillet 2011
+  dateEN: July 12, 2011
+  linesFR:
+  - "\xE7a fait maintenant deux semaines que tu fais du woofing \xE0 la ferme bio
+    du \"Petit Ecureuil\""
+  - aujourd'hui, tu t'occupes des vendanges avec Lila
+  - "Il faut bien dire que ce n'est pas un hasard, parce que tu as suppli\xE9 L\xE9o
+    toute la nuit qu'il te mette en \xE9quipe avec elle"
+  - "D\xE8s que Lila est arriv\xE9e \xE0 la ferme, tu as flash\xE9 sur elle et depuis
+    tu cherches d\xE9sesp\xE9r\xE9ment \xE0 cr\xE9er un contact"
+  linesEN:
+  - It has been two weeks that you have been woofing at the organic farm of "Little
+    Squirrel"
+  - today, you are helping with the grape harvest with Lila.
+  - It must be said that this is not a coincidence, because you begged Leo all night
+    to put you on a team with her.
+  - as soon as Lila arrived at the farm, you were smitten with her and since then
+    you have been desperately trying to make contact.
+  endChapterQuestionFR: Comment est-ce que tu vas faire le premier pas ?
+  endChapterQuestionEN: What will be your first move?
+  negativeOptionFR: "De toute \xE9vidence, Lila ne s'int\xE9resse que tr\xE8s peu
+    aux pokemons. Pourquoi est-ce que j'ai commenc\xE9 la discussion en lui parlant
+    de \xE7a ?"
+  negativeOptionEN: Obviously, Lila is only very little interested in pokemon. You
+    wonder what made you start the conversation by talking to her about that?
+  positiveOptionFR: "Vous avez pass\xE9 l'apr\xE8s-midi \xE0 rire comme des baleines
+    et n'avez pas vu le temps passer."
+  positiveOptionEN: You spent the afternoon laughing and the time flew by without
+    you noticing.
+  negativeConclusionFR: "Peut-\xEAtre qu'il y aura d'autres occasions cet \xE9t\xE9
+    de cr\xE9er un contact..."
+  negativeConclusionEN: Maybe there will be other opportunities this summer to make
+    contact...
+  positiveConclusionFR: "Voil\xE0 le d\xE9but d'une belle relation."
+  positiveConclusionEN: What a wonderfull beginning.
+  emotion: 0
+  characterImage: {fileID: 0}
+  diceValue: 3
+  histoireAChoix: 1
+  ecrireSonNom: 0
+  needCheckCondition: 1
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 1
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 0
+  celibataire: 0
+  aUnImpact: 1
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 1
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 1
+  seMarieAvecEmilieSuccess: 0

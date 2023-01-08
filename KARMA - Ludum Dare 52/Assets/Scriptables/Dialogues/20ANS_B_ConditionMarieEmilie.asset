@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: 20ANS_B_ConditionMarieEmilie
+  m_EditorClassIdentifier: 
+  dateFR: 22 Juin 2013
+  dateEN: June 22, 2013
+  linesFR:
+  - '- 22 Juin 2013 -'
+  - "\xE7a fait maintenant six mois que tu as envoy\xE9 ton message"
+  - "et de toute \xE9vidence, lila n'a aucune envie que tu reviennes dans sa vie"
+  - "ton dernier espoir r\xE9side dans le fait qu'elle aille de nouveau \xE0 la ferme
+    cet \xE9t\xE9, comme toi"
+  - mais au fond de toi, tu n'y crois pas trop.
+  linesEN:
+  - '- June 22, 2013 -'
+  - it's been six months since you sent your message
+  - and obviously lila doesn't want you back in her life
+  - your last hope is that she goes to the farm again this summer, like you
+  - but deep down, you don't really believe it.
+  endChapterQuestionFR: 
+  endChapterQuestionEN: 
+  negativeOptionFR: 
+  negativeOptionEN: 
+  positiveOptionFR: 
+  positiveOptionEN: 
+  negativeConclusionFR: 
+  negativeConclusionEN: 
+  positiveConclusionFR: 
+  positiveConclusionEN: 
+  emotion: 0
+  characterImage: {fileID: 0}
+  diceValue: 0
+  histoireAChoix: 0
+  ecrireSonNom: 0
+  needCheckCondition: 1
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 1
+  celibataire: 0
+  aUnImpact: 0
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

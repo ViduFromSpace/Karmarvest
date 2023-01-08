@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: Introduction
+  m_EditorClassIdentifier: 
+  dateFR: Introduction
+  dateEN: Introduction
+  linesFR:
+  - "bienvenue dans Karmarvest, le jeu vid\xE9o o\xF9 vous devrez cultiver votre
+    destin et votre karma comme la plus pr\xE9cieuse des r\xE9coltes."
+  - "Vous incarnez un personnage et \xE0 chaque d\xE9cision que vous prendrez, vous
+    devrez r\xE9fl\xE9chir \xE0 la fa\xE7on dont ils influenceront votre avenir."
+  - 'Pensez-y comme une graine que vous plantez dans la terre :'
+  - "elle peut germer tout de suite ou bien des ann\xE9es plus tard. mais dans tous
+    les cas, il faut en prendre soin et l'\xE9loigner des mauvaises herbes"
+  - "Le destin et le karma sont comme les \xE9l\xE9ments naturels qui influenceront
+    votre r\xE9colte."
+  - "Ils peuvent \xEAtre favorables et vous aider \xE0 r\xE9colter les fruits de
+    vos efforts,"
+  - "ou bien ils peuvent \xEAtre d\xE9favorables et mettre le champs de vos esp\xE9rances
+    en danger."
+  - "dans Karmarvest, c'est \xE0 vous de d\xE9cider comment vous allez cultiver votre
+    destin\xE9e."
+  - "Utiliserez-vous votre Karma pour contr\xF4ler votre r\xE9colte, ou laisserez-vous
+    le destin d\xE9cider de votre sort ?"
+  - "voyons-\xE7a..."
+  - "Je vais te demander de revenir \xE0 ton plus ancien souvenir."
+  linesEN:
+  - 'welcome to Karmarvest, the video game where you will have to cultivate your
+    destiny and your karma as the most precious harvest.  '
+  - You embody a character and with every choice you make, you must consider how
+    they will influence your future... or not
+  - 'Think of it like a seed that you plant in the ground:'
+  - it can germinate immediately or years later. But in any case, you must take care
+    of it and kept it away from weeds.
+  - Fate and karma are like the natural elements that will influence your harvest.
+  - They can be supportive and help you reap the rewards of your efforts,
+  - or they can be unfavorable and put the field of your hopes in danger.
+  - in Karmarvest, it's up to you how you will till your destiny
+  - will you use your Karma to control your destiny, or will you let fate decide
+    your path?
+  - Let's see...
+  - Now, go back to your oldest memory.
+  endChapterQuestionFR: 
+  endChapterQuestionEN: 
+  negativeOptionFR: 
+  negativeOptionEN: 
+  positiveOptionFR: 
+  positiveOptionEN: 
+  negativeConclusionFR: 
+  negativeConclusionEN: 
+  positiveConclusionFR: 
+  positiveConclusionEN: 
+  emotion: 0
+  characterImage: {fileID: 21300000, guid: de367a24225106d46b876e789b6e7f17, type: 3}
+  diceValue: 0
+  histoireAChoix: 0
+  ecrireSonNom: 0
+  needCheckCondition: 0
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 0
+  celibataire: 0
+  aUnImpact: 0
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

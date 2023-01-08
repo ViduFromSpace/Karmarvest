@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: 8ANS_B
+  m_EditorClassIdentifier: 
+  dateFR: 25 mars 2001
+  dateEN: March 25th, 2001
+  linesFR:
+  - '- 25 Mars 2001 -'
+  - "Tu te rappelles aussi la premi\xE8re fois o\xF9 elle t'as amen\xE9 dans son
+    \"petit oasis\""
+  - "Le \"petit oasis\" de Mamie laitue, c'\xE9tait son jardin"
+  - "Personne \xE0 part elle n'avait le droit d'y rentrer."
+  - 'Mais un jour, elle t''as pris par la main et t''as dit :'
+  - "\"Viens, mon petit [PlayerName], je vais te montrer le secret pour \xEAtre heureux
+    dans la vie.\""
+  - "elle a ouvert sa vieille cl\xF4ture en bois et tu es entr\xE9 dans ce qui ressemblait
+    plus \xE0 une for\xEAt sauvage qu'\xE0 un jardin."
+  - "entre les arbres poussaient des l\xE9gumes, dispers\xE9s al\xE9atoirement entre
+    les touffes de mauvaise herbe"
+  - Mamie laitue a cueilli une tomate et te l'as tendu.
+  - "Tu te rappelles encore la peau fragile c\xE9der sous tes dents, le jus d\xE9licieux
+    couler dans ta bouche, ce go\xFBt fabuleux remplir ton c\u0153ur."
+  - ...
+  - c'est le premier souvenir de bonheur dont tu peux te rappeler.
+  linesEN:
+  - You also remember the first time she took you to her "little oasis"
+  - Grandma Lettuce's "little oasis" was her garden
+  - Nobody except her was allowed to enter it.
+  - 'But one day, she took you by the hand and said:'
+  - Come, my little [PlayerName], I will show you the secret of being happy in life.
+  - She opened the old wooden fence and you entered somewhere that looked like a
+    wild primal forest.
+  - Between the trees grew vegetables, scattered randomly among clumps of weeds
+  - Grandma Lettuce picked a tomato and handed it to you.
+  - You still remember the fragile skin yielding under your teeth, the delicious
+    juice flowing in your mouth, this fabulous taste filling your heart.
+  - ...
+  - It was the first time you were truly happy in your life.
+  endChapterQuestionFR: Qu'as-tu fait pour la remercier ?
+  endChapterQuestionEN: What did you do to thank her?
+  negativeOptionFR: "Pour la remercier, tu la serre contre toi tr\xE8s fort. Mais
+    tu devais \xEAtre tr\xE8s costaud parce qu'elle a failli tomber."
+  negativeOptionEN: To thank her, you hugged her very tightly. But you must have
+    been very strong because she almost fell.
+  positiveOptionFR: "Pour la remercier, tu as d\xE9pens\xE9 ton argent de poche pour
+    aller acheter une graine de past\xE8que au magasin."
+  positiveOptionEN: To thank her, you spent your allowance to go buy a watermelon
+    seed at the store.
+  negativeConclusionFR: "Tu es trop jeune pour te rendre compte que c'est depuis
+    ce jour que Mamie bo\xEEte."
+  negativeConclusionEN: You were too young to realize that it was from this day on
+    that Grandma limped.
+  positiveConclusionFR: "Vous plantez cette past\xE8que. C'est votre plus beau tr\xE9sor
+    \xE0 tous les deux."
+  positiveConclusionEN: You plant this watermelon. It is your most beautiful treasure
+    together.
+  emotion: 1
+  characterImage: {fileID: 21300000, guid: 7fe226cd9f3de4b4a866119aeadd6ab1, type: 3}
+  diceValue: 3
+  histoireAChoix: 1
+  ecrireSonNom: 0
+  needCheckCondition: 0
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 0
+  celibataire: 0
+  aUnImpact: 1
+  passionPastequeSuccess: 1
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 1
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

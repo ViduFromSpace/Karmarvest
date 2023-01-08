@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: 20ANS_A
+  m_EditorClassIdentifier: 
+  dateFR: 01 Janvier 2013
+  dateEN: 
+  linesFR:
+  - Tout le monde dort autour de toi.
+  - "Sur tes jambes, ton pote Nico est affal\xE9, totalement saoul, entrain de ronfler."
+  - "Il s'est effondr\xE9 comme \xE7a apr\xE8s avoir cri\xE9 \"bonne ann\xE9e !!!\""
+  - "et tu n'as pas os\xE9 bouger de peur de d\xE9clencher un vomissement."
+  - "tu d\xE9testes le vomis."
+  - "tu es le seul r\xE9veill\xE9 dans la maison que vous avez lou\xE9e pour le nouvel
+    an."
+  - 'mais tu as une bonne raison :'
+  - "tu veux profiter du nouvel an pour \xE9crire \xE0 Lila."
+  - "en rentrant de votre \xE9t\xE9, vous avez beaucoup parl\xE9 par sms"
+  - "puis, petit \xE0 petit, vous avez perdu contact"
+  - "votre dernier \xE9change date d'il y a huit mois"
+  - "elle n'avait pas r\xE9pondu \xE0 ton invitation \xE0 aller voir votre artiste
+    pr\xE9f\xE9r\xE9 en concert."
+  linesEN:
+  - Everyone is sleeping around you.
+  - On your legs, your friend Nico is slumped, totally drunk, snoring.
+  - He collapsed like this after shouting "Happy New Year!!!"
+  - and you didn't dare move him, affraid of inducing vomiting.
+  - you hate vomit.
+  - you're the only one awake in the house you rented for the new year.
+  - 'but there is a good reason:'
+  - you want to take advantage of the new year to write to Lila.
+  - when you came back from your summer, you talked a lot by sms
+  - then, little by little, you lost touch
+  - your last text was eight months ago
+  - she didn't respond to your invitation to see your favorite artist in concert.
+  endChapterQuestionFR: "Mais cette fois-ci, ce sera diff\xE9rent ! quel message
+    vas-tu lui envoyer ?"
+  endChapterQuestionEN: But this time it will be different! what message are you
+    going to send her?
+  negativeOptionFR: "\"coucou lili ! noyeux joel et bananier ! comment \xE7a va ?\""
+  negativeOptionEN: Hi lili ! What is the digital camera's New Year's resolution?
+    1080p. what's up?
+  positiveOptionFR: "\"Ma bonne r\xE9solution de cette ann\xE9e : Cr\xE9er des chasses
+    au tr\xE9sor aux gens que j'aime.\""
+  positiveOptionEN: 'My new year resolution : Create treasure hunts for the people
+    I love.'
+  negativeConclusionFR: "Tu te dis que t'aurais pu lui \xE9crire avec un peu moins
+    d'alcool dans le sang."
+  negativeConclusionEN: You tell yourself that you could have written to her with
+    a lower alcohol use level...
+  positiveConclusionFR: '"Et du coup, mon premier indice est : "Raisin" "'
+  positiveConclusionEN: '"My first clue: Grape"'
+  emotion: 0
+  characterImage: {fileID: 0}
+  diceValue: 5
+  histoireAChoix: 1
+  ecrireSonNom: 0
+  needCheckCondition: 0
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 0
+  celibataire: 0
+  aUnImpact: 1
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 1
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

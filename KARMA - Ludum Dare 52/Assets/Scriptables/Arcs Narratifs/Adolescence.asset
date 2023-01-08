@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8de9a79fd2c0f148a95547300294e7c, type: 3}
+  m_Name: Adolescence
+  m_EditorClassIdentifier: 
+  dialogues:
+  - {fileID: 11400000, guid: b2bf5919ee376e24f86d776b6a6ab48d, type: 2}
+  - {fileID: 11400000, guid: 0178934c32c232143852c24e78d86284, type: 2}
+  - {fileID: 11400000, guid: 937ae43a5ed344947aa820ea26779d55, type: 2}
+  - {fileID: 11400000, guid: 354516ad1e654fe4ba42ec49b1c542e5, type: 2}
+  titre: Adolescence

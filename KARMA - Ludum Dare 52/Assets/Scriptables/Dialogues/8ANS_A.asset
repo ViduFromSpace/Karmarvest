@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: 8ANS_A
+  m_EditorClassIdentifier: 
+  dateFR: 8 Janvier 2001
+  dateEN: January 8th, 2001
+  linesFR:
+  - Le premier souvenir dont tu te rappelles, c'est le visage de Mamie danielle.
+  - "Il y avait une l\xE9gende au sein de la famille qui disait qu'elle avait toujours
+    un morceau de laitue coinc\xE9 entre les dents sur les photos."
+  - "Du coup, depuis tout petit, tu l'as appel\xE9 Mamie laitue"
+  - "\xE7a l'a toujours fait rigoler."
+  - 'Elle non plus ne t''appelle pas par ton nom. '
+  - 'ce qu''elle aime, c''est appeler les gens avec un petit surnom tendre :'
+  linesEN:
+  - The first memory you remember is the face of Grandma Danielle.
+  - The whole family made jokes about the fact that she always had a piece of lettuce
+    stuck between her teeth in photos
+  - So you called her Grandma Lettuce.
+  - It made her laugh.
+  - At the time, she doesn't call you by your name.
+  - 'she likes to call people with a cute nickname:'
+  endChapterQuestionFR: 
+  endChapterQuestionEN: 
+  negativeOptionFR: 
+  negativeOptionEN: 
+  positiveOptionFR: 
+  positiveOptionEN: 
+  negativeConclusionFR: 
+  negativeConclusionEN: 
+  positiveConclusionFR: 
+  positiveConclusionEN: 
+  emotion: 1
+  characterImage: {fileID: 21300000, guid: cddaee28561ea8547859b5f18fba0a78, type: 3}
+  diceValue: 3
+  histoireAChoix: 0
+  ecrireSonNom: 1
+  needCheckCondition: 0
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  celibataire: 0
+  aUnImpact: 0
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0

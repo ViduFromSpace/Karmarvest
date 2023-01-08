@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: 26ANS_A_ConditionMarieEmilie
+  m_EditorClassIdentifier: 
+  dateFR: "12 f\xE9vrier 2019"
+  dateEN: February 12, 2019
+  linesFR:
+  - "Tu as rencontr\xE9 \xE9milie il y a maintenant 4 ans"
+  - "tu \xE9tais all\xE9 \xE0 une soir\xE9e jeu au bar \xE0 c\xF4t\xE9 de chez toi
+    et elle y organisait une soir\xE9e jeu de r\xF4le"
+  - "tu avais \xE9t\xE9 \xE9bloui par son humour et sa vivacit\xE9 d'esprit"
+  - "au fur et \xE0 mesure qu'elle s'avance vers l'autel, tu penses aux quatre ann\xE9es
+    qui viennent de s'\xE9couler"
+  - "tu revois le voyage en Corse, le jeu de soci\xE9t\xE9 que vous avez cr\xE9\xE9
+    ensemble"
+  - "tu te rappelles des soir\xE9es Netflix et Popcorn et de sa demande en mariage"
+  - "au d\xE9but, vous aviez d\xE9cid\xE9 que ce serait toi qui la demanderait en
+    mariage"
+  - "mais \xE9milie en avait eu marre d'attendre que tu te d\xE9cides"
+  - et elle avait pris les choses en main
+  - "un matin, tu t'\xE9tais r\xE9veill\xE9 avec une enveloppe \xE0 la place de ton
+    smartphone"
+  - tu l'avais ouverte et lu le mot dessus
+  - '"Nous avons votre smartphone. Si vous souhaitez le retrouver, veuillez demander
+    Lili en mariage."'
+  - "\"Nous sommes de m\xE9chants terroristes, alors nous ne reculerons devant rien.
+    Agrougrou.\""
+  - Emilie est devant toi et tu souris
+  - "ses yeux bleus p\xE9tillent et elle te demande :"
+  - "\"Tu y tenais tant que \xE7a \xE0 ton portable ?\""
+  linesEN:
+  - You met Emilie 4 years ago
+  - you went to a board game bar, near your house and she was having a role-playing
+    party there
+  - you were dazzled by her humor and wit
+  - as she walks down the aisle you think of the past four years
+  - you see the trip to Corsica, the board game you created together
+  - you remember the Netflix and Popcorn parties and her marriage proposal
+  - at the beginning, you had both decided that it would be you who would propose
+    to her
+  - but emilie was tired of waiting for you to make up your mind
+  - and she took the buisiness over control
+  - one morning you woke up with an envelope instead of your smartphone
+  - you opened it and read the note in it
+  - '"We have your smartphone. If you want to find it, propose to Lili."'
+  - '"We are evil terrorists, so we will stop at nothing. Grr grr."'
+  - Emilie is in front of you and you smile
+  - 'her blue eyes sparkle and she asks you:'
+  - '"You cared that much about your cell phone?"'
+  endChapterQuestionFR: 
+  endChapterQuestionEN: 
+  negativeOptionFR: 
+  negativeOptionEN: 
+  positiveOptionFR: 
+  positiveOptionEN: 
+  negativeConclusionFR: 
+  negativeConclusionEN: 
+  positiveConclusionFR: 
+  positiveConclusionEN: 
+  emotion: 0
+  characterImage: {fileID: 0}
+  diceValue: 0
+  histoireAChoix: 0
+  ecrireSonNom: 0
+  needCheckCondition: 1
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 1
+  celibataire: 0
+  aUnImpact: 0
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

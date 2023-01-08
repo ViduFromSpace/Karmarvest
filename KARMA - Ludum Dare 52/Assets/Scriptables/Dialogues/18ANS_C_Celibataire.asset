@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: 18ANS_C_Celibataire
+  m_EditorClassIdentifier: 
+  dateFR: 16 Aout 2011
+  dateEN: August 16th, 2011
+  linesFR:
+  - "- 16 Ao\xFBt 2011 -"
+  - "c'est ton dernier jour \xE0 la ferme."
+  - "tu as fini par te rapprocher de Lila sur la fin de ton s\xE9jour"
+  - "tu adores son sourire et la fa\xE7on qu'elle a de se cacher la bouche pour rire"
+  - "vous vous promettez de vous \xE9crire et de rester en contact"
+  linesEN:
+  - '- August 16th, 2011 -'
+  - It is your last day here.
+  - you ended up getting closer to Lila towards the end of your stay.
+  - you love her smile and the way she hides her mouth to laugh.
+  - you promise to write to each other and stay in touch.
+  endChapterQuestionFR: 
+  endChapterQuestionEN: 
+  negativeOptionFR: 
+  negativeOptionEN: 
+  positiveOptionFR: 
+  positiveOptionEN: 
+  negativeConclusionFR: 
+  negativeConclusionEN: 
+  positiveConclusionFR: 
+  positiveConclusionEN: 
+  emotion: 0
+  characterImage: {fileID: 0}
+  diceValue: 0
+  histoireAChoix: 0
+  ecrireSonNom: 0
+  needCheckCondition: 1
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 0
+  celibataire: 1
+  aUnImpact: 0
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: 18ANS_E_Celibataire
+  m_EditorClassIdentifier: 
+  dateFR: "16 Ao\xFBt 2011"
+  dateEN: August 16th, 2011
+  linesFR:
+  - "Maman klaxonne dans la voiture, elle commence \xE0 s'impatienter."
+  - Tu sens que c'est le bon moment pour dire quelque chose.
+  - Lila te regarde avec ses beaux yeux verts.
+  linesEN:
+  - Mom honks the car horn, she is starting to get impatient.
+  - You feel like it is the right moment to say something.
+  - lila is looking at you with her big green eyes.
+  endChapterQuestionFR: "Quelle est la derni\xE8re phrase que tu vas lui dire ?"
+  endChapterQuestionEN: What's the last sentence you're going to say to her?
+  negativeOptionFR: '"franchement, poulette, je ne t''oublierai pas, j''te l''promet
+    sur mon tatouage de Johnny"'
+  negativeOptionEN: '"Honestly, babe, I won''t forget you, I promise you on my Elvis
+    tattoo"'
+  positiveOptionFR: "\"Je suis heureux d'avoir grandi \xE0 tes c\xF4t\xE9s, pendant
+    quelques mois. Merci pour ta tendresse.\""
+  positiveOptionEN: ' am happy to have grown up by your side, for a few months. Thank
+    you for your kindness.'
+  negativeConclusionFR: "Soit elle est fan de Johnny, soit la blague n'est pas si
+    dr\xF4le. mais c'est de toute \xE9vidence un flop."
+  negativeConclusionEN: Either she's an Elvis fan or the joke isn't so funny. but
+    it's obviously a flop.
+  positiveConclusionFR: Lila vous embrasse sur la joue. Vous rejoignez maman dans
+    la voiture.
+  positiveConclusionEN: Lila kisses you on the cheek. You join Mom in the car.
+  emotion: 0
+  characterImage: {fileID: 0}
+  diceValue: 4
+  histoireAChoix: 1
+  ecrireSonNom: 0
+  needCheckCondition: 1
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 0
+  celibataire: 1
+  aUnImpact: 0
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

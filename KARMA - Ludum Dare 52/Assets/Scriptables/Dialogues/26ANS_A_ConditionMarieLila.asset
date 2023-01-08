@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: 26ANS_A_ConditionMarieLila
+  m_EditorClassIdentifier: 
+  dateFR: "12 f\xE9vrier 2019"
+  dateEN: February 12, 2019
+  linesFR:
+  - "elle est l\xE0, avec son costume de pirate-mari\xE9e"
+  - "du coin de l'oeil, tu vois ton beau-p\xE8re secouer la t\xEAte de gauche \xE0
+    droite"
+  - "ta belle famille n'a jamais vraiment compris les d\xE9lires de Lila"
+  - 'pendant qu''elle s''avance vers l''autel, tu la revoies, il y a quelques mois,
+    dans votre salon :'
+  - "\"Alors d\xE9j\xE0, [PlayerName], laisse-moi te dire que j'ai jamais voulu me
+    marier.\""
+  - '"C''est toi qui m''a fait un cap ou pas cap."'
+  - "\"et je suis toujours cap ! mais en \xE9change, je vais pirater cette institution
+    partiarcale grace \xE0 la plus belle robe de mari\xE9e du monde\""
+  - "Lili se tient en face de vous, son beau visage barr\xE9 par un cache oeil"
+  - ...
+  - "en effet, c'est la plus belle robe de mari\xE9e du monde."
+  linesEN:
+  - there she is, with her pirate-bride costume
+  - Out of the corner of your eye, you see your stepdad shaking his head from left
+    to right
+  - your step family never really understood Lila's delusions
+  - 'as she walks towards the altar, you think about her, few months ago, in your
+    living room:'
+  - '"So, [PlayerName], let me tell you, I never wanted to get married."'
+  - '"But you made it a game and I accepted the challenge"'
+  - '"and I''m always ready! but, I''m going to hack this patriarchal institution
+    thanks to the most beautiful wedding dress in the world"'
+  - Lili stands in front of you, wearing an eye patch
+  - ...
+  - Yes, it's the most beautifull dress in the world.
+  endChapterQuestionFR: 
+  endChapterQuestionEN: 
+  negativeOptionFR: 
+  negativeOptionEN: 
+  positiveOptionFR: 
+  positiveOptionEN: 
+  negativeConclusionFR: 
+  negativeConclusionEN: 
+  positiveConclusionFR: 
+  positiveConclusionEN: 
+  emotion: 0
+  characterImage: {fileID: 0}
+  diceValue: 0
+  histoireAChoix: 0
+  ecrireSonNom: 0
+  needCheckCondition: 1
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 1
+  seMarieAvecEmilie: 0
+  celibataire: 0
+  aUnImpact: 0
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

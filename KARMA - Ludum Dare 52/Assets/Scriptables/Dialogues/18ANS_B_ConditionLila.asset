@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: 18ANS_B_ConditionLila
+  m_EditorClassIdentifier: 
+  dateFR: 24 Juillet 2011
+  dateEN: July 24th, 2011
+  linesFR:
+  - "Le soleil est entrain de se coucher sur la ferme mais tu es absorb\xE9 par un
+    tout autre spectacle."
+  - "lila est entrain de faire un spectacle de marionnette \xE0 tous les b\xE9n\xE9voles."
+  - "tu la trouves belle \xE0 essayer de r\xE9veiller l'\xE2me d'enfant de toute
+    personne qu'elle croise."
+  - "elle t'a expliqu\xE9 hier pendant des heures comment la marionnette du gendarme
+    est une satire de la corruption et de la violence symbolique de la police."
+  - "tu souris quand tu vois guignol \xE9chapper aux forces de l'ordre et d\xE9verser
+    son tr\xE9sor hors de la sc\xE8ne pour le partager avec le public."
+  - Tu as envie d'embrasser Lila.
+  linesEN:
+  - The sun is setting over the farm, but you are absorbed by a completely different
+    sight.
+  - lila is performing a puppet show for all the volunteers.
+  - she is beautiful, trying to awaken the inner child of everyone she meets.
+  - she explained to you for hours yesterday how the puppet of the policeman is a
+    satire of the corruption and symbolic violence of the police.
+  - you smile when you see the hero escaping the authorities and spill his treasure
+    offstage to share it with the audience.
+  - you want to kiss Lila.
+  endChapterQuestionFR: 
+  endChapterQuestionEN: 
+  negativeOptionFR: 
+  negativeOptionEN: 
+  positiveOptionFR: 
+  positiveOptionEN: 
+  negativeConclusionFR: 
+  negativeConclusionEN: 
+  positiveConclusionFR: 
+  positiveConclusionEN: 
+  emotion: 0
+  characterImage: {fileID: 0}
+  diceValue: 0
+  histoireAChoix: 0
+  ecrireSonNom: 0
+  needCheckCondition: 1
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 1
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 0
+  celibataire: 0
+  aUnImpact: 0
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

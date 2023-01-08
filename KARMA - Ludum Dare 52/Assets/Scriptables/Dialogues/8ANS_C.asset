@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: 8ANS_C
+  m_EditorClassIdentifier: 
+  dateFR: 6 juin 2001
+  dateEN: June 6th, 2001
+  linesFR:
+  - "Quand vous n'\xEAtes pas avec mamie laitue, vous \xEAtes avec Maman."
+  - papa, lui, a trop de travail pour jouer avec vous.
+  - "ce n'est pas grave. avec maman, vous passez des heures \xE0 inventer des histoires
+    ou \xE0 vous balader en for\xEAt."
+  - "M\xEAme si parfois, quand la for\xEAt est sombre, vous avez peur."
+  - "maman vous rassure en vous disant que les arbres sont des chevaliers silencieux
+    qui vous prot\xE8gent des mauvais esprits."
+  - alors vous faites le brave et faites semblant de ne plus avoir peur.
+  linesEN:
+  - When you are not with Grandma Lettuce, you are with Mom.
+  - Dad, on the other hand, has too much work to play with you.
+  - That's okay. with Mom, you spend hours inventing stories or walking in the forest.
+  - Sometimes, when the forest is dark, you are afraid.
+  - Mom reassures you by saying that trees are silent knights who protect you from
+    evil spirits.
+  - So you try to be brave and pretend not to be afraid anymore.
+  endChapterQuestionFR: "Un jour, alors que vous essayez tr\xE8s fort d'\xEAtre courageux,
+    un \xE9cureuil vous tombe sur l'\xE9paule."
+  endChapterQuestionEN: One day, while you were trying to be brave, a squirrel fall
+    on you shoulder.
+  negativeOptionFR: "Tu hurles de peur et cours au hasard dans la for\xEAt."
+  negativeOptionEN: You scream and run randomly into the forest.
+  positiveOptionFR: "Tu arrives \xE0 te maitriser et \xE0 le caresser. Il reste l\xE0
+    quelques minutes puis s'en va."
+  positiveOptionEN: You manage to control yourself and pet it. It stays there for
+    a few minutes and then leaves.
+  negativeConclusionFR: "Depuis ce jour-l\xE0, tu as peur des \xE9cureuils."
+  negativeConclusionEN: Since then, you have been afraid of squirrels.
+  positiveConclusionFR: "C'\xE9tait magnifique. Ton animal totem sera d\xE9sormais
+    l'\xE9cureuil."
+  positiveConclusionEN: It was beautiful. Your animal totem will now be the squirrel.
+  emotion: 1
+  characterImage: {fileID: 21300000, guid: e5a58a626e761be4faaf3b289a9d2049, type: 3}
+  diceValue: 3
+  histoireAChoix: 1
+  ecrireSonNom: 0
+  needCheckCondition: 0
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 0
+  celibataire: 0
+  aUnImpact: 1
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 1
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 1
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

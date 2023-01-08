@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: 18ANS_B_Celibataire
+  m_EditorClassIdentifier: 
+  dateFR: 24 Juillet 2011
+  dateEN: July 24th, 2011
+  linesFR:
+  - "Le soleil est entrain de se coucher sur la ferme mais tu es absorb\xE9 par un
+    tout autre spectacle."
+  - "lila est entrain de faire un spectacle de marionnette \xE0 tous les b\xE9n\xE9voles."
+  - "tu la trouves un peu ridicule \xE0 jouer avec des jouets devant tout monde."
+  - les adultes ne devraient pas perdre leur temps avec ce genre de choses.
+  - ...
+  - "non, en r\xE9alit\xE9, tu la trouves belle \xE0 essayer de r\xE9veiller les
+    \xE2mes d'enfants de tous ces b\xE9n\xE9voles."
+  - tu es juste un peu amer qu'elle se soit mise en couple avec cynthia.
+  - "la jalousie te va mal. tu n'aimes pas ressentir \xE7a."
+  - tu respires un bon coup et essaie de profiter du spectacle.
+  linesEN:
+  - The sun is setting over the farm, but you are absorbed by a completely different
+    sight.
+  - Lila is performing a puppet show for all the volunteers.
+  - For you, she's a bit ridiculous playing with toys in front of everyone.
+  - adults shouldn't waste their time with this kinds of things.
+  - ...
+  - No, actually, you find her beautiful trying to awaken the inner child of all
+    these volunteers.
+  - you are just a little bitter about her new girlfriend Cynthia.
+  - jealousy doesn't suit you. you don't like feeling this way.
+  - You take a deep breath and try to enjoy the show.
+  endChapterQuestionFR: 
+  endChapterQuestionEN: 
+  negativeOptionFR: 
+  negativeOptionEN: 
+  positiveOptionFR: 
+  positiveOptionEN: 
+  negativeConclusionFR: 
+  negativeConclusionEN: 
+  positiveConclusionFR: 
+  positiveConclusionEN: 
+  emotion: 0
+  characterImage: {fileID: 0}
+  diceValue: 0
+  histoireAChoix: 0
+  ecrireSonNom: 0
+  needCheckCondition: 1
+  passionPasteque: 0
+  noPassionPasteque: 0
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 0
+  celibataire: 1
+  aUnImpact: 0
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0

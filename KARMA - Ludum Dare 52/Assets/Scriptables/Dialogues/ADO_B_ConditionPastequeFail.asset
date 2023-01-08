@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e393e83fc92d2745813709c8242aa52, type: 3}
+  m_Name: ADO_B_ConditionPastequeFail
+  m_EditorClassIdentifier: 
+  dateFR: 7 Mars 2005
+  dateEN: March 7, 2005
+  linesFR:
+  - Les adultes sont dans la maison, entrain de faire des cartons.
+  - "Tu es devant la grille du \"petit oasis\" de Mamie. Sa cl\xE9 est dans ta main."
+  - Tu essaies de forcer pour ouvrir la grille mais n'y arrive pas.
+  - "ca fait bien longtemps que plus personne n'est pass\xE9 par l\xE0."
+  - Tu te demandes avec tristesse ce qu'il va advenir de ce jardin.
+  linesEN:
+  - The adults are in the house, making boxes.
+  - You are in front of the gate of Grandma's "little oasis". Her key is in your
+    hand.
+  - You try to force open the gate but can't.
+  - It's been a long time since anyone's been there.
+  - You wonder with sadness what will happen to this garden.
+  endChapterQuestionFR: 
+  endChapterQuestionEN: 
+  negativeOptionFR: 
+  negativeOptionEN: 
+  positiveOptionFR: 
+  positiveOptionEN: 
+  negativeConclusionFR: 
+  negativeConclusionEN: 
+  positiveConclusionFR: 
+  positiveConclusionEN: 
+  emotion: 0
+  characterImage: {fileID: 0}
+  diceValue: 0
+  histoireAChoix: 0
+  ecrireSonNom: 0
+  needCheckCondition: 1
+  passionPasteque: 0
+  noPassionPasteque: 1
+  peurEcureuils: 0
+  animalTotemEcureuil: 0
+  suicuneAttrape: 0
+  enCoupleAvecLila: 0
+  seMarieAvecLila: 0
+  seMarieAvecEmilie: 0
+  celibataire: 0
+  aUnImpact: 0
+  passionPastequeSuccess: 0
+  animalTotemEcureuilSuccess: 0
+  suicuneAttrapeSuccess: 0
+  enCoupleAvecLilaSuccess: 0
+  seMarieAvecLilaSuccess: 0
+  passionPastequeFail: 0
+  peurEcureuilsFail: 0
+  enCoupleAvecLilaFail: 0
+  seMarieAvecEmilieSuccess: 0
